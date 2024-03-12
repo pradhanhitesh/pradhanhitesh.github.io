@@ -64,6 +64,13 @@ body {
   height: 40px;
 }
 
+footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
 footer .social-icons a {
   width: 30px;
   height: 30px;
@@ -158,4 +165,14 @@ html {
 .title {
   font-size: 24px; /* Larger font size */
   font-weight: bold; /* Bolder font weight */
+}
+
+/* Set max width for content */
+.container-xl {
+  max-width: 800px;
+}
+
+/* Add space between columns */
+.col {
+  margin-top: 5px;
 }
