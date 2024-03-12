@@ -1,4 +1,4 @@
-name: Update Quotes AUTO
+name: Update Quotes
 # Source code: Clayton Hamilton https://github.com/claytonjhamilton
 
 on:
@@ -37,5 +37,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Auto update site"
+          git commit -m "Site Auto Update"
           git push 
