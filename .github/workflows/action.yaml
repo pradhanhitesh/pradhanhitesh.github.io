@@ -1,10 +1,10 @@
-name: Update README
+name: Update Quotes AUTO
 # Source code: Clayton Hamilton https://github.com/claytonjhamilton
 
 on:
   # push:      # run @ every push
   schedule:
-    - cron: '30 11 * * *' 
+    - cron: '43 04 * * *' 
 
 # on:
 #   workflow_dispatch:
