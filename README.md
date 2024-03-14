@@ -1,7 +1,7 @@
 # pradhanhitesh.github.io
-Site last updated on: 2024-03-13 10:16:07
+Site last updated on: 2024-03-14 10:16:25
 
-Last fact: The constant exposure to electronic devices such as smartphones would negatively affect 140 proteins in the brain due to electromagnetic frequencies which can cause synaptic pruning.
+Last fact: Consequently, brain cells will eat themselves. However, integrating omega-3 (an essential fatty acid) into the diet positively affects brain volume and aging. So, a diet high in omega-3 would definitely protect the brain from shrinking.
 
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website. 
 
