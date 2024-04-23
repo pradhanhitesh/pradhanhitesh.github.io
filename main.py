@@ -8,6 +8,8 @@ def main():
     template_vars = {
             "quotes" : quotes
         }
+    
+    # Updates the QUOTES-loader
     env = Environment(loader=FileSystemLoader("template"))
     template = env.get_template("template.html")
     output_from_parsed_template = template.render(template_vars)
@@ -21,6 +23,7 @@ def main():
             "fact" : quotes
         }
     
+    # Updates the README.md
     env = Environment(loader=FileSystemLoader("template"))
     template = env.get_template("readme.html")
     output_from_parsed_template = template.render(template_vars)
