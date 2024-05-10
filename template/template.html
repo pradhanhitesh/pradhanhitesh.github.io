@@ -381,5 +381,19 @@
   }, 4000); // 4 seconds delay
 
 </script>
+<script>
+    // Select the element with the background you want to zoom
+    const hero = document.querySelector('.hero');
+
+    // Listen for the scroll event
+    window.addEventListener('scroll', () => {
+      // Calculate the scale factor based on the scroll position
+      const scrollPosition = window.scrollY;
+      const scaleFactor = 1 + scrollPosition * 0.0005; // Adjust the multiplier to control the speed of zoom
+
+      // Apply the scale transformation to the background image
+      hero.style.backgroundSize = `${scaleFactor * 100}%`; // Adjust the factor to set the initial size
+    });
+  </script>
 </body>
 </html>

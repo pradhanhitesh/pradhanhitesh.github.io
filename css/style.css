@@ -28,14 +28,18 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+
 /* Hero section background image */
 .hero {
   height: 100vh;
   background-image: url("../images/brain-bg.jpg");
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   background-attachment: fixed;
 }
+
+
 
 #skills i {
   height: 100px;
