@@ -39,8 +39,6 @@ body {
   background-attachment: fixed;
 }
 
-
-
 #skills i {
   height: 100px;
   width: 100px;
@@ -117,6 +115,14 @@ footer .social-icons a {
     width: 100% !important;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .hero {
+    background-size: auto; /* Adjust background size for smaller screens */
+    background-attachment: scroll; /* Change background attachment for scrolling */
+  }
+}
+
 
 html {
   overflow: scroll;
