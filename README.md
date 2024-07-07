@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2024-07-06 10:16:05 IST
+Last updated on: 2024-07-07 10:16:09 IST
 
-Last fact: The constant exposure to electronic devices such as smartphones would negatively affect 140 proteins in the brain due to electromagnetic frequencies which can cause synaptic pruning.
+Last fact: Consequently, brain cells will eat themselves. However, integrating omega-3 (an essential fatty acid) into the diet positively affects brain volume and aging. So, a diet high in omega-3 would definitely protect the brain from shrinking.
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
