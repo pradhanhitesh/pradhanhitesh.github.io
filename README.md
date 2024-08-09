@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2024-08-08 10:16:14 IST
+Last updated on: 2024-08-09 10:15:54 IST
 
-Last fact: The size of brain areas grows depending on their usage. Indeed, it was found that taxi drivers in London had a brain that was significantly bigger than average.
+Last fact: A brain freeze is really a sphenopalatine ganglioneuralgia. 
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
