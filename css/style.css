@@ -5,6 +5,11 @@
   --gray-color: #ccc;
 }
 
+.custom-navbar {
+  background-color: #2e2e2e; /* Replace with your desired color */
+}
+
+
 /* Changing background color */
 body {
   background: var(--bg-color) !important;
