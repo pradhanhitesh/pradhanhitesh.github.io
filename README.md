@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2024-11-07 10:16:25 IST
+Last updated on: 2024-11-08 10:16:03 IST
 
-Last fact: Typically the human brain is 2% of the total body weight, although it consumes 20% of its total energy and oxygen intake.
+Last fact: It's a myth that you only use 10% of your brain. Another common fallacy is that brain size determines how smart you are.
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
