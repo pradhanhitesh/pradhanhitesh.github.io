@@ -3,7 +3,7 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2024-11-13 10:17:00 IST
+Last updated on: 2024-11-14 10:18:48 IST
 
 Last fact: It's a myth that you only use 10% of your brain. Another common fallacy is that brain size determines how smart you are.
 
