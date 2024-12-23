@@ -3,7 +3,7 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2024-12-22 10:16:00 IST
+Last updated on: 2024-12-23 10:17:37 IST
 
 Last fact: The human brain can generate about 23 watts of power (enough to power a lightbulb)
 
