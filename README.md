@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2025-03-04 10:17:42 IST
+Last updated on: 2025-03-05 10:17:33 IST
 
-Last fact: Typically the human brain is 2% of the total body weight, although it consumes 20% of its total energy and oxygen intake.
+Last fact: The constant exposure to electronic devices such as smartphones would negatively affect 140 proteins in the brain due to electromagnetic frequencies which can cause synaptic pruning.
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
