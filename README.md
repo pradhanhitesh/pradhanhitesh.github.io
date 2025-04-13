@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2025-04-12 10:18:09 IST
+Last updated on: 2025-04-13 10:35:47 IST
 
-Last fact: The size of brain areas grows depending on their usage. Indeed, it was found that taxi drivers in London had a brain that was significantly bigger than average.
+Last fact: The neurons you're born with are mostly the neurons you have when you die, so these cells live with you your entire life.
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
