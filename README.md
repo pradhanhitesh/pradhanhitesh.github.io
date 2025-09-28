@@ -3,9 +3,9 @@ Welcome! I am a Research Assistant based in <b>Bengaluru, India</b> and working 
 
 On weekends, I learn how to code and work on projects. The website is results of one such weekend. However, to make my static GitHub page more interesting I added 5-second loading-delay and interesting neuroscience quotes, and the quote updates everyday (thanks to GitHub actions).
 
-Last updated on: 2025-09-27 10:16:44 IST
+Last updated on: 2025-09-28 10:16:31 IST
 
-Last fact: A brain freeze is really a sphenopalatine ganglioneuralgia. 
+Last fact: The human brain can generate about 23 watts of power (enough to power a lightbulb)
 
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
