@@ -7,5 +7,7 @@ Last updated on: 2025-10-02 10:16:42 IST
 
 Last fact: The constant exposure to electronic devices such as smartphones would negatively affect 140 proteins in the brain due to electromagnetic frequencies which can cause synaptic pruning.
 
+# Testing
+
 # Acknowledgement
 I would like to thanks <a href="https://freefrontend.com/">FreeFrontend</a> for providing the template for my porfolio website 
